@@ -1,5 +1,5 @@
-<div align="center">
-  <h1 align="center">### Seja Bem Vindo, ao Projeto Dev. da Organização Orange Juice ### 😎</h1>
+
+  # Seja Bem vindx ao Projeto Dev da Comunidade Orange Juice 😎
 
 <!--
 
